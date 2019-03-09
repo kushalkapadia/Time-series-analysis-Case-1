@@ -6,6 +6,8 @@ A hydrological station on river X has been taking measures of its streamflow (in
 measurements are recorded for more than 20 years. The time series plot shown below indicates the varying of
 water flow from Jan. 1997 to Dec. 2016. 
 
+![case1 picture](https://user-images.githubusercontent.com/33611104/54067072-406b9d00-41f8-11e9-82d1-a70babc80200.png)
+
 The data can be found here:
 https://github.com/kushalkapadia/Time-series-analysis-Case-1/blob/master/train.csv
 
